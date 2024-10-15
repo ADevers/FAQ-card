@@ -107,7 +107,7 @@ img {
     color: #9E4638;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 450px) {
     .body {
         height: 100fr;
     }
